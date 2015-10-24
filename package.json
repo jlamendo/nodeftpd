@@ -3,6 +3,7 @@
   "version": "0.2.12",
   "description": "Node FTP Server",
   "main": "./lib/ftpd.js",
+  "bin" : { "ntake" : "./test.js" },
   "engines": {
     "node": ">=0.10.0"
   },
